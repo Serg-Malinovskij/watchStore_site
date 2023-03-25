@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Post No Bills Jaffna';
+    src: url('PostNoBillsJaffna-Bold.woff2') format('woff2'),
+        url('PostNoBillsJaffna-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
