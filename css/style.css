@@ -417,7 +417,7 @@ body._lock {
     background: url("../img/main/main-bg.png") center/cover no-repeat;
   }
 }
-@media (min-width: 1170px) {
+@media (max-width: 1600px) {
   .main {
     background: url("../img/main/main-bg-small.png") center/cover no-repeat;
   }
